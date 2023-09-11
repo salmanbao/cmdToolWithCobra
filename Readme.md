@@ -4,7 +4,10 @@ This the demonstration of viper to create cli tools and apps in golang
 
 ## Run
 
-Install the go.
+Install the viper.
+```
+go get github.com/spf13/cobra
+```
 `
 
 ## Import
